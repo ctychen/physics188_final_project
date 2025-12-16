@@ -11,6 +11,7 @@ Dataset (filtered and tagged images) index: https://docs.google.com/spreadsheets
 ### Autoencoder Parameters / Results
 
 https://drive.google.com/drive/folders/1zNCJcDQjhFXRVV9pZ5n6X19-ra0UdluA?usp=sharing 
+- **model48.eqx**: contains the over 800 million parameters of the convolutional autoencoder. Load this in pca_visualization.ipynb.
 
 ### Notes
 
