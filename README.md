@@ -10,6 +10,8 @@ Dataset (filtered and tagged images) index: https://docs.google.com/spreadsheets
 
 ### Code Breakdown 
 
+Download_and_Class is used to first, load tha dataset into usable format, and then run a binary filter
+based on color and lightness to classify images as containing an aurora or not.
 
-
-
+Aurora_Classification_with_Grayscale converts images to grayscale and uses PyTorch to create a CNN that can
+classify the shape/content of the image.
