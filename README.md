@@ -8,8 +8,11 @@ Data: https://drive.google.com/drive/folders/15OIvDkIMuZKDP-1Dc4Lxhgs2D9TJoHJA?u
 
 Dataset (filtered and tagged images) index: https://docs.google.com/spreadsheets/d/1-Cyp22nBqxQUManQtD_KFQZszfEfuLIicsKJZnjpQpY/edit?usp=drive_link 
 
-### Notes
+### Autoencoder Parameters / Results
 
+https://drive.google.com/drive/folders/1zNCJcDQjhFXRVV9pZ5n6X19-ra0UdluA?usp=sharing 
+
+### Notes
 
 - **Aurora_Dates.ipynb**: Finds dates with high geomagnetic activity and thus high likelihood of auroras being observable, using a set of GM activity metrics from the OMNIWeb database. Also filters these times and dates by sunset / sunrise time to maximize the likelihood that observatories are up and recording, and actually able to see auroras in a dark sky, to minimize the risk of us downloading unusable data.
 
